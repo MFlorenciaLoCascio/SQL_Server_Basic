@@ -1,4 +1,4 @@
-## Prueba de certificación de habilidades SQL (básicas) en HackerRank :fa-database:
+## Prueba de certificación de habilidades SQL (básicas) en HackerRank 
 
 Realicé la prueba el 01 de mayo de 2024 :woman_technologist:
 
