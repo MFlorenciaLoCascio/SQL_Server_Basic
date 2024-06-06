@@ -10,4 +10,4 @@ Consistió en dos consultas:
 
 Link de mi [Certificación](https://www.hackerrank.com/certificates/91a96dc9a3d7 "Certificación")
 
-Link para realizar la [Prueba](https://www.hackerrank.com/skills-verification/sql_basic "Prueba de certificación")
+Link para realizar la [Prueba](https://www.hackerrank.com/skills-verification/sql_basic)
